@@ -9,12 +9,6 @@
 # Initial tiling activation, will be cached afterwards (true | false).
 tiling_enabled = true
 
-# Cache Workspace Tiling enablement, current layouts, etc
-cache_workspaces = true
-
-# Do not cache window positions
-cache_windows = false
-
 # Initial tiling layout, will be cached afterwards ("vertical-left" | "vertical-right" | "horizontal-top" | "horizontal-bottom" | "maximized" | "fullscreen").
 tiling_layout = "vertical-right"
 
